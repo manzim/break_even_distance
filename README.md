@@ -27,6 +27,7 @@ Nominal technical characteristics include:
 - The plant represents a small-scale, decentralized pyrolysis system designed for regional biomass utilization.
 
 ## Interactive Web Application
+![](https://github.com/manzim/break_even_distance/blob/master/break_even_distance_webApp_demo.gif)
 
 An interactive implementation of the model is publicly available:
 
