@@ -109,8 +109,6 @@ The computational model and implementation are not openly released at this stage
 
 Academic access may be requested via email.
 
-## Snippets from the Live 
-
 ## About the Author
 AHMED MANZIM RIDWAN
 M.Sc. Student, Forest Information & Technology
